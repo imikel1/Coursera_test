@@ -21,7 +21,6 @@ h1 {
 	background-color: lightgreen;
 	padding: 15px;
 	margin-bottom: 25px;
-	position: relative;
 	float: left;
 }
 
@@ -30,7 +29,6 @@ h1 {
 	background-color: lightyellow;
 	padding: 15px;
 	margin-bottom: 25px;
-	position: relative;
 	float: left;
 }
 
@@ -39,8 +37,14 @@ h1 {
 	background-color: lightblue;
 	padding: 15px;
 	margin-bottom: 25px;
-	position: relative;
 	float: left;
+}
+
+section > h2 {
+	text-align: right;
+	position: relative;
+	top: -5px;
+	right: 10px;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -49,7 +53,6 @@ h1 {
 		background-color: lightgreen;
 		padding: 15px;
 		margin-bottom: 25px;
-		position: relative;
 		float: left;
 	}
 
@@ -58,7 +61,6 @@ h1 {
 		background-color: lightyellow;
 		padding: 15px;
 		margin-bottom: 25px;
-		position: relative;
 		float: left;
 	}
 
