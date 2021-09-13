@@ -1,7 +1,7 @@
 # Coursera_test
-## Podnaslov (# #)
+## Podnaslov
 First assignments from html css js
 
 ## Podnaslov 2
 
-Idemo u planine         
+
