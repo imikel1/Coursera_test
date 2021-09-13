@@ -1,6 +1,6 @@
 # Coursera_test
 
-First assignments from module two is in module2_
+First assignments have module2_solution home directory
 
 
 
