@@ -1,6 +1,6 @@
 # Coursera_test
 
-First assignments from html css js
+First assignments from module two is in module2_
 
 
 
