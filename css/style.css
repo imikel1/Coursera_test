@@ -56,17 +56,17 @@ section h2 {
 	right: 0px;
 }
 
-#stitle1 h2 {
+#s1 h2 {
 	color: magenta;
 	background-color: lightyellow;
 }
 
-#stitle2 h2 {
+#s2 h2 {
 	color: green;
 	background-color: lightblue;
 }
 
-#stitle3 h2 {
+#s3 h2 {
 	color: purple;
 	background-color: lightgreen;
 }
