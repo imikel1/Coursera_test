@@ -1,1 +1,0 @@
-# Enjoy my responsive project
